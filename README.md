@@ -1,5 +1,18 @@
 # Initial-Coin-Offering
 
+This Dapp is for the initial coin offering of CRD tokens.
+
+## Features
+
+- There can be a max of `10,000 CD` tokens.
+- Every [Crypto Dev](https://github.com/LearnWeb3DAO/NFT-Collection) NFT holder should get 10 tokens for free but they would have to pay the gas fees.
+- The price of one CD at the time of ICO should be `0.001 ether`
+- There should be a website which users can visit for the ICO.
+
+Let's start building 🚀
+
+## Frontend 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
